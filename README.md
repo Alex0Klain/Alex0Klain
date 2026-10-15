@@ -23,7 +23,7 @@
 ## 🛠 Стек
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,apple,xcode,kotlin" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,kotlin" />
 </p>
 
 | Область | Технологии |
