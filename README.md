@@ -8,7 +8,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/📍-Russia-2c5364?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Alex0Klain&style=flat-square&color=2c5364&label=Profile+views" />
+  <img src="https://img.shields.io/badge/На_GitHub_с-30.11.2016-2c5364?style=flat-square&logo=github" />
 </p>
 
 </div>
@@ -16,30 +16,32 @@
 ## 🧑‍💻 Обо мне
 
 - 🍏 iOS-разработчик: пишу на **Swift** и **SwiftUI**
-- 🧩 Люблю чистую архитектуру: **TCA**, Coordinator, MVP
+- 🧩 Люблю чистую архитектуру: **TCA**, MVVM
 - 🔨 Сейчас делаю [**MealPlanner**](https://github.com/Alex0Klain/MealPlanner), планировщик меню, где блюда выпадают из паков карточек, как в коллекционной игре
-- 📚 Конспектирую темы по iOS в [iOS-Topics](https://github.com/Alex0Klain/iOS-Topics) и разбираю алгоритмы в [Algorithms](https://github.com/Alex0Klain/Algorithms)
+- 🧠 Мой аккаунт на LeetCode: [LeFleur](https://leetcode.com/u/LeFleur/)
 
 ## 🛠 Стек
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,apple,xcode,git,github,githubactions,figma,html,css,js&perline=10" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,xcode,kotlin" />
 </p>
 
 | Область | Технологии |
 |---|---|
-| **UI** | SwiftUI, UIKit |
-| **Архитектура** | TCA, MVVM, MVP, Coordinator |
-| **Данные** | SwiftData, Core Data, Codable |
-| **Асинхронность** | Swift Concurrency (async/await), Combine |
-| **Тесты** | Swift Testing, XCTest |
-| **CI** | GitHub Actions |
+| **UI** | SwiftUI, UIKit, WidgetKit |
+| **Архитектура** | TCA, MVVM, Clean Architecture, SPM-модули |
+| **Асинхронность** | Swift Concurrency, Combine |
+| **Кроссплатформа** | Kotlin Multiplatform |
+| **Сеть и устройства** | REST API, Server-Driven UI, CoreBluetooth (BLE) |
+| **Тесты** | XCTest, Swift Testing |
+| **CI/CD** | GitLab CI, Fastlane, TestFlight |
+| **AI** | Claude Code |
 
 ## 🚀 Проекты
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🃏 <a href="https://github.com/Alex0Klain/MealPlanner">MealPlanner</a></h3>
       <p>Планировщик меню на неделю. Блюда приходят в паках карточек трёх редкостей: Common, Rare и Legendary. Карточки раскладываешь по завтраку, обеду и ужину.</p>
       <p>
@@ -49,23 +51,14 @@
         <img src="https://img.shields.io/badge/SwiftData-1C1C1E?style=flat-square&logo=apple&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/Alex0Klain/iOS-Topics">iOS-Topics</a></h3>
-      <p>Подборка материалов по iOS: паттерны (Coordinator и другие), контроль версий, полезные статьи и видео.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Knowledge_base-2c5364?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🧮 <a href="https://github.com/Alex0Klain/Algorithms">Algorithms</a></h3>
       <p>Алгоритмы из книги «Грокаем алгоритмы», реализованные на Swift.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🔁 <a href="https://github.com/Alex0Klain/SwiftUICombine">SwiftUICombine</a></h3>
       <p>Эксперименты со SwiftUI и Combine.</p>
       <p>
@@ -75,24 +68,11 @@
   </tr>
 </table>
 
-## 📊 Статистика
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex0Klain&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex0Klain&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Alex0Klain&theme=tokyonight&hide_border=true&locale=ru" />
-</div>
-
 ## 📫 Связь
 
 <p>
   <a href="https://github.com/Alex0Klain"><img src="https://img.shields.io/badge/GitHub-Alex0Klain-181717?style=for-the-badge&logo=github" /></a>
-  <!-- Раскомментируй и впиши свои контакты:
-  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  -->
+  <a href="https://t.me/JustDefault"><img src="https://img.shields.io/badge/Telegram-@JustDefault-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
