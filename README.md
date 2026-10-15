@@ -78,8 +78,8 @@
 ## 📊 Статистика
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alex0Klain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=ru" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex0Klain&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=ru" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex0Klain&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex0Klain&theme=tokyonight" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Alex0Klain&theme=tokyonight&hide_border=true&locale=ru" />
 </div>
